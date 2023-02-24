@@ -1,2 +1,3 @@
 # IRIS-Data-Preprocessing-Model-Training
-Data Preprocessing  &amp; Model Training on IRIS Dataset
+After performing EDA & Feature Selection, Model Training is done on top of it to get good accuracy.
+
